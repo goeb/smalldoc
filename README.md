@@ -42,7 +42,7 @@ Ouput files:
 
 The generated HTML pages consists in:
 
-- a header (taken from header.html where __TITLE__ has been replaced)
+- a header (taken from header.html where `__TITLE__` has been replaced)
 - a table of contents (where the entries are taken from the other .md files)
 - the content of the page
 - a footer (taken from footer.html)
