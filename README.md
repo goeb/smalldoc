@@ -28,23 +28,23 @@ Then browse to example/index.html to see the result.
 
 Input files of the example:
 
-    header.html
-    footer.html
-    index.md
-    documentation.md
-    etc.
+- header.html
+- footer.html
+- index.md
+- documentation.md
+- etc.
 
 Ouput files:
 
-    index.html
-    documentation.html
-    etc.
+- index.html
+- documentation.html
+- etc.
 
 The generated HTML pages consists in:
 
-    a header (taken from header.html where __TITLE__ has been replaced)
-    a table of contents (where the entries are taken from the other .md files)
-    the content of the page
-    a footer (taken from footer.html)
+- a header (taken from header.html where __TITLE__ has been replaced)
+- a table of contents (where the entries are taken from the other .md files)
+- the content of the page
+- a footer (taken from footer.html)
     
 
